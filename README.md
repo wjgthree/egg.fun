@@ -1,0 +1,2 @@
+# egg.fun
+Practical joke
